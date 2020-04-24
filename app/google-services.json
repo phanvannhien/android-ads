@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19787353942",
+    "firebase_url": "https://dantriapp.firebaseio.com",
+    "project_id": "dantriapp",
+    "storage_bucket": "dantriapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19787353942:android:c597eb151048adf0d710f7",
+        "android_client_info": {
+          "package_name": "com.example.chinadxdantri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19787353942-hl7a7175b3tanr2a4l2hjdvshi89etv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV6SoDDJhqOEg95kA2lT44ly0Mk8AxSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19787353942-hl7a7175b3tanr2a4l2hjdvshi89etv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
